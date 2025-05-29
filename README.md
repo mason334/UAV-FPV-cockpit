@@ -36,6 +36,9 @@
 - ​​创客友好​​：
   + 所有代码/设计文件遵循MIT协议，支持二次开发（如用Raspberry Pi替换ESP32）。
 
+## 项目说明文档
+
+项目详细说明文档请移步GitBook：[https://mason-3.gitbook.io/airplane-fpv-cockpit/](https://mason-3.gitbook.io/airplane-fpv-cockpit)
 
 
 
