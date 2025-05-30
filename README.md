@@ -9,6 +9,8 @@
 - 通过将工业级飞行数据交互技术（Mavlink）与沉浸式视觉渲染结合，我们让消费级无人机也能还原真实飞机的驾驶舱交互——从仪表反馈到HUD动态投影，每一处细节都让用户无限接近真实飞行体验。
 
 - 这不是一个成品，而是一套飞行交互的“乐高”：用开源代码、ESP32开发板、OLED显示器和3D模型，打造沉浸式FPV飞行体验。
+  
+![cockpit_view](https://github.com/mason334/images/blob/main/cockpit%20view%201.jpg)
 
 
 ## 项目特点
