@@ -46,4 +46,4 @@
 项目详细说明文档请移步GitBook：[https://mason-3.gitbook.io/airplane-fpv-cockpit/](https://mason-3.gitbook.io/airplane-fpv-cockpit)
 
 ## 开发者社区
-QQ群：217107690
+QQ群：217107609
