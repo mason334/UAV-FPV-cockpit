@@ -12,6 +12,8 @@
   
 [![Watch the video](https://github.com/mason334/images/blob/main/%E5%B9%B3%E9%A3%9E.png)](https://youtu.be/EGba6gP0AzU)
 
+![驾驶舱](https://mason-3.gitbook.io/~gitbook/image?url=https%3A%2F%2F1067138918-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F1QdusdhX5Ad18ENiCrTv%252Fuploads%252FwGXJKvEUM2nQYwHPQQ3m%252FIMG_2221.jpeg%3Falt%3Dmedia%26token%3Dc1907245-80d3-4c81-bdb6-fbf09cc3dc94&width=768&dpr=1&quality=100&sign=34f00c17&sv=2)
+
 
 
 ## 项目特点
