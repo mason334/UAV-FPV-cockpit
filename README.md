@@ -10,8 +10,6 @@
 
 - 这不是一个成品，而是一套飞行交互的“乐高”：用开源代码、ESP32开发板、OLED显示器和3D模型，打造沉浸式FPV飞行体验。
   
-![cockpit_view](https://github.com/mason334/images/blob/main/cockpit%20view%201.jpg)
-https://youtu.be/EGba6gP0AzU
 [![Watch the video](https://github.com/mason334/images/blob/main/roll%20stun.jpg)](https://youtu.be/EGba6gP0AzU)
 
 
